@@ -2,7 +2,7 @@
 https://experience.arcgis.com/experience/d308473b8bf7434681951a45e45b15d4
 
 - **Chadwick Arboretum and Learning Gardens**  
-https://experience.arcgis.com/experience/d308473b8bf7434681951a45e45b15d4
+https://experience.arcgis.com/experience/5ee9eb15a6d44f29901c0767734b4056
 
 - **Buckeye Path to Wellness**  
 https://experience.arcgis.com/experience/4d40d256ed6d4adc85e3ff2fee86f067
